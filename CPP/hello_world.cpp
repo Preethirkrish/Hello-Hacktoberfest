@@ -1,9 +1,8 @@
 #include<iostream.h>
 #include<conio.h>
-void main()
+int main()
 {   
-   clrscr();
    cout<<"******Hello-Hacktoberfest******";
-   getch();
+   return 0;
  }
  
